@@ -1,0 +1,33 @@
+@media(max-width: 988){
+    img, svg {
+        vertical-align: middle;
+        width: 100%;
+      }
+      .col-md-6 {
+       
+        width: 100%;
+        margin-top: 20px;
+      }
+    }
+@media(max-width: 524){
+    .picture1 {
+        width: 100%;
+        padding-right: 70px;
+        margin-left: 10px;
+}
+.col-6 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+}
+@media(max-width: 394){
+    .col-3 {
+         width: 50%;
+      }
+}
+@media(max-width: 288){
+    .col-3 {
+        width: 100%;
+      }
+}
